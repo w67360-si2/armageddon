@@ -22,3 +22,6 @@ description: Une histoire de fin du monde ?
 ---
 <!-- class: -->
 Le fait est que tu comprends cette phrase.
+
+---
+Il existe donc des faits que nous pouvons observer tous deux, à propos desquels nous pouvons produire des énoncés que nous nous accordons à considérer comme vrais.
