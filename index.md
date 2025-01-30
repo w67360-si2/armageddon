@@ -24,4 +24,10 @@ description: Une histoire de fin du monde ?
 Le fait est que tu comprends cette phrase.
 
 ---
-Il existe donc des faits que nous pouvons observer tous deux, à propos desquels nous pouvons produire des énoncés que nous nous accordons à considérer comme vrais.
+Un deuxième fait est qu'il existe des faits que nous pouvons observer tous deux, à propos desquels nous pouvons produire des énoncés que nous nous accordons à considérer comme _vrais_.
+
+---
+Appelons l'ensemble de ces faits observables par nous
+_notre monde commun_.
+
+---
