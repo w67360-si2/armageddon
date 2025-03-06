@@ -1,0 +1,6 @@
+Name:                Thiebault Lefebvre - Directeur artistique
+ID:                  5
+Importance:          1
+POV:                 True
+Full Summary:        Grand gaillard, porte une brosse et une barbe décolorés en blanc platine.
+Color:               #adf8d3

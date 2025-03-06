@@ -1,0 +1,21 @@
+Name:                Thomas Moreau - CTO
+ID:                  4
+Importance:          1
+POV:                 True
+Motivation:          La croissance de Wiz, avec l'objectif d'en faire une agence de communication dominante sur le marché strasbourgeois. Personnellement, cela lui apporterait le sentiment de se réaliser en tant que guru de la technologie, tout en assurant à sa famille un niveau de vie élevé.
+Goal:                Stabiliser son équipe et résoudre le problème du turnover en trouvant les bons collaborateurs qui seront en mesure de répondre à ses attentes et de s'engager à long terme avec Wiz.
+Conflict:            Son conflit tient à sa personnalité et la façon dont il gère ses équipes, mais il ne le comprend pas. Il met trop la pression à ses collaborateurs, se plie trop aux demandes des clients, quite à bouleverser les plannings. Il perd son sang-froid lorsque le stress devient trop élevé et crie, voire insulte ses subordonnés. La conséquence en est qu'il y a à Wiz un turnover très important et cette instabilité grève les performances de Wiz, empêche la mise en place de méthodologies modernes et efficaces. Pourtant, il est persuadé que la cause lui est extérieure : il pense que beaucoup de ses collaborateurs sont incompétents, d'où son insatisfaction à son égard, le stress et ses colères, et les multiples départ au fil des années.
+Epiphany:            Le deuxième jour du stage, Thomas est exclu de son équipe. Il est contraint de se remettre en question et de revoir sa façon de travailler avec les autres.
+                     
+                     C'est l'occasion pour Thomas de découvrir ses propres forces et faiblesses, ce qui lui permet de mieux comprendre comment mieux travailler avec les autres. Il réalise que son équipe n'était pas aussi solide et unie qu'il le pensait, et que son exclusion était le résultat de problèmes plus profonds dans la façon dont il travaillait avec les autres.
+                     
+                     Enfin, être exclu donne également à Thomas l'occasion de se rapprocher des autres joueurs qui ont été exclus, ce qui lui permete mieux comprendre leur point de vue et d'établir des relations plus solides avec eux. En travaillant avec ces nouvelles personnes, il découvre de nouvelles façons de travailler en équipe et de résoudre les problèmes.
+Full Summary:        Thomas Moreau est un passionné de technologie et de tout ce qui touche au web et au digital. Il est un geek accompli qui a toujours aimé jouer avec les nouvelles technologies et les découvrir sous toutes leurs formes.
+                     Il est entré chez Wiz en 1993, alors qu'il avait 20 ans, en tant que Technicien Informatique. À l'époque, Wiz était un studio photo et une agence de communication orientée "Print". Cependant, Thomas a rapidement compris l'importance du web et a poussé l'agence à se concentrer sur Internet. Au fil des ans, il est devenu un pilier essentiel de l'agence, grâce à ses connaissances en matière de technologie et à sa passion pour le web et le digital.
+                     
+                     Malgré son amour pour son travail, Thomas est également un homme de famille. Il adore passer du temps avec sa femme et ses deux enfants.
+                     
+                     Cependant, cet homme brillant et passionné cache une part d'ombre. Il a tendance à se laisser envahir par son travail, ce qui peut parfois l'amener à négliger sa famille. De plus, ses antécédents en tant que technicien informatique l'amène à être trop critique envers les travaux de ses collègues, ce qui cause des tensions au sein de l'équipe.
+                     
+                     En fin de compte, Thomas est un expert en technologie, et un homme qui se consacre corps et âme à son travail et à sa famille. Il est déterminé à faire de Wiz un leader de l'industrie de la communication, et à apporter ses connaissances et son expertise à chaque projet sur lequel il travaille.
+Color:               #ac92c5

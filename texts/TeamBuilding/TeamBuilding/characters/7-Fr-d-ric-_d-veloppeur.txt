@@ -1,0 +1,7 @@
+Name:                Frédéric, développeur
+ID:                  7
+Importance:          1
+POV:                 True
+Notes:               Chapitre 2, scène 1:
+                     Parmi eux, le plus vulnérable me paraissait être Frédéric, un garçon de vingt-trois ans, frand et efflanqué, au teint pâle, tirant vers le gris, et aux cheveux bouclés assez clairs. Il avait toujours l'air d'avoir des membres trop longs et des vêtements trop amples pour lui. D'un tempérament anxieux, il tremblait toujours légèrement. Il parlait le plus souvent d'une voix faible, à la diction saccadée.
+Color:               #87f4de
