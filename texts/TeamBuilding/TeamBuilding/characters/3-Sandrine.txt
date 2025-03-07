@@ -1,0 +1,6 @@
+Name:                Sandrine
+ID:                  3
+Importance:          0
+POV:                 False
+Phrase Summary:      Hôtesse d'accueil et standardiste chez Wiz. Blonde, une cinquantaine d'années.
+Color:               #9bf3fd

@@ -1,0 +1,6 @@
+Name:                Anne-Laure Durant, patrone de Wiz
+ID:                  1
+Importance:          1
+POV:                 False
+Motivation:          Elle a dû travailler dur pour réussir à racheter l'entreprise où elle travaillait et à prendre la tête de l'équipe, et elle veut maintenant prouver qu'elle est capable de gérer cette responsabilité. Elle veut également montrer qu'elle est une femme indépendante et compétente, qui n'a pas besoin de s'appuyer sur un mari ou sur un partenaire pour réussir dans sa vie. Elle a peut-être aussi l'ambition de développer l'entreprise et de la rendre encore plus prospère, afin de pouvoir s'enorgueillir de son succès et de son influence. En tant que patronne, elle veut sans doute être considérée comme une leader respectée et crainte par ses employés, et elle ne supporte pas l'idée de perdre le contrôle ou de voir ses décisions remises en question. C'est pour cela qu'elle a le défaut de ne pas lâcher facilement prise et de vouloir imposer sa volonté.
+Color:               #b7d89d

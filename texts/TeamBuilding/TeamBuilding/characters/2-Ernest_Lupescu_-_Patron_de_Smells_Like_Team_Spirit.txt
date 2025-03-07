@@ -1,0 +1,5 @@
+Name:                Ernest Lupescu - Patron de Smells Like Team Spirit
+ID:                  2
+Importance:          1
+POV:                 True
+Color:               #8b83ae

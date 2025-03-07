@@ -1,0 +1,5 @@
+Name:                Carine, community manager
+ID:                  6
+Importance:          1
+POV:                 True
+Color:               #c2d29a

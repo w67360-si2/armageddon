@@ -1,0 +1,13 @@
+title:          Chapitre 1 : l'agence Wiz
+ID:             1
+type:           folder
+summarySentence:Premier jour de Quentin, réunion d'agence
+summaryFull:    C'est le premier jour de Quentin Courbet à l'agence Wiz. Le hasard fait que c'est aussi le matin d'une réunion d'agence où toute l'équipe se rassemble pour parler des actualités de la société. Après l'introduction par la patronne, Anne-Laure Durant, Quentin se présente à l'aide d'un diaporama. Ensuite, Anne-Laure parle des difficultés de l'agence avant d'introduire le patron de Wiz, Ernest Lupescu. Celui-ci leur présente le stage de TeamBuilding à venir.
+                Pendant les transitions, Quentin en profite pour observer ses nouveaux collaborateurs.
+                L'un d'eux, le directeur de la créa, se fait remarquer en signalant à Lupescu que le nom de sa société n'est pas très bien choisi.
+POV:            0
+compile:        2
+setGoal:        1800
+charCount:      11662
+
+
